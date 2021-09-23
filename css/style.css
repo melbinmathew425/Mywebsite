@@ -322,7 +322,15 @@ ul.submenu li a:hover {
 }
 
 .advantage-grid-info1.second {
-    background: url(../images/g2.jpg) center no-repeat;
+    background: url(../images/h2.jpg) center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-size: cover;
+    position: relative;
+    min-height: 500px;
+    
 }
 
 .advantage-grid-info1.third {
