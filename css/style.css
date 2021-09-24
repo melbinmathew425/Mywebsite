@@ -11,7 +11,9 @@ html {
     background: #fff;
     scroll-behavior: smooth;
 }
-
+#space{
+    color: white;
+}
 body a {
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
@@ -1437,6 +1439,8 @@ ul.social_section_1info.team-soc li a span:hover {
         font-size: 1.4em;
     }
 }
+
+
 
 @media(max-width:414px) {}
 
